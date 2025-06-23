@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7738802c3ba60ef40bd23071910daef5, type: 3}
+  m_Name: Main_Config
+  m_EditorClassIdentifier: 
+  <ZooSize>k__BackingField: 20
+  <ZooSetupReference>k__BackingField:
+    m_AssetGUID: 160c3a86e0163444184c73fc8a27d361
+    m_SubObjectName: 
+    m_SubObjectGUID: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  <MinSpawnDelay>k__BackingField: 1
+  <MaxSpawnDelay>k__BackingField: 2
+  <AnimalLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 128
+  <AnimalDatas>k__BackingField:
+  - {fileID: 11400000, guid: c522c85febb6b844790c6a8f6b26d79a, type: 2}
+  - {fileID: 11400000, guid: 8284fdc16c70c424babc7901d5a3c1a7, type: 2}

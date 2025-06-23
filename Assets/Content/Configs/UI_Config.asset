@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5ec80e4928480ba767118f9fd21ae0, type: 3}
+  m_Name: UI_Config
+  m_EditorClassIdentifier: 
+  <WorldTextReference>k__BackingField:
+    m_AssetGUID: 2a7b9362875eb4e4c98b685721c68b46
+    m_SubObjectName: 
+    m_SubObjectGUID: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  <UIElementsByKey>k__BackingField:
+  - Key: StatisticsPanel
+    UIElementReference:
+      m_AssetGUID: e92a04412389794489c6a53870522453
+      m_SubObjectName: 
+      m_SubObjectGUID: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

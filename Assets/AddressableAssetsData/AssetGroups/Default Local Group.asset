@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: b095fe79482069645b1beae26c1dc90e
+  m_SerializeEntries:
+  - m_GUID: 06c0905f00b04784eb38148d4bb83450
+    m_Address: Assets/Content/Animals/Frog/Frog.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 160c3a86e0163444184c73fc8a27d361
+    m_Address: Assets/Content/Prefabs/ZooSetup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a7b9362875eb4e4c98b685721c68b46
+    m_Address: Assets/Content/UI/WorldText.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c42f518067a3f3348b83f5c5d27fab2f
+    m_Address: Assets/Content/Animals/Snake/Snake.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e92a04412389794489c6a53870522453
+    m_Address: Assets/Content/UI/StatisticsPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4a1513dbf65494e4f92a9bfbab11e699, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7a67fb3369204fc42b0e9c9dbd502ff2, type: 2}
+    - {fileID: 11400000, guid: e176a0ad95b0ac4489c0013fea814502, type: 2}
